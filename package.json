@@ -1,0 +1,27 @@
+{
+  "name": "todolist-svelte",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@smui/button": "^7.0.0-beta.14",
+    "@smui/card": "^7.0.0-beta.14",
+    "@smui/checkbox": "^7.0.0-beta.14",
+    "@smui/data-table": "^7.0.0-beta.14",
+    "@smui/dialog": "^7.0.0-beta.14",
+    "@smui/icon-button": "^7.0.0-beta.14",
+    "@smui/textfield": "^7.0.0-beta.14",
+    "@sveltejs/vite-plugin-svelte": "^2.4.2",
+    "sass": "^1.66.1",
+    "svelte": "^4.0.5",
+    "vite": "^4.4.5"
+  },
+  "dependencies": {
+    "svelte-material-ui": "^7.0.0-beta.14"
+  }
+}
